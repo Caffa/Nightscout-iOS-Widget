@@ -1,3 +1,5 @@
+# Status
+Complete and working as of 2021-09-28
 # Nightscout-iOS-Widget
 This is a fork of https://gitlab.com/niepi/scriptable-nightscout-widget and requires the Scriptable App
 
